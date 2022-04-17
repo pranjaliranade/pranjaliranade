@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Raleway', sans-serif;
+}
+.header{
+    width: 100%;
+    background-color: teal;
+
+}
+.nav{
+    display: flex;
+    padding: 2% 6%;
+    justify-content: space-between;
+    align-items: center;
+}
+.nav-links ul li a{
+    list-style: none;
+    color: #fff;
+    display: inline-block;
+    font-size: 13px;
+    text-decoration: none;
+    list-style: none;
+}
+.nav-links ul li:hover::after{
+    color: red;
+}
+.textbox{
+    /*width: 90%;*/
+    top: 50%;
+    left: 50%;
+    /*color: rgb(169, 206, 238);*/
+    /*border-color:rgb(87, 167, 236);*/
+    border-color: black;
+    border-width: 2px; 
+    text-align: center;
+}
