@@ -1,4 +1,8 @@
 ### Hi there 👋
+#### I'm Pranjali!
+#### Points to know about me:
+#### I'm a content developer who is trying to learn data analysis via python.
+
 
 <!--
 **pranjaliranade/pranjaliranade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
