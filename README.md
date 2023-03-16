@@ -1,7 +1,7 @@
 ### Hi there 👋
 #### I'm Pranjali!
 #### Points to know about me:
-#### I'm a content developer who is trying to learn data analysis via python.
+#### I'm a full stack developer.
 
 
 <!--
