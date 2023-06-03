@@ -1,7 +1,6 @@
 ### Hi there 👋
 #### I'm Pranjali!
-#### Points to know about me:
-#### I'm a full stack developer.
+
 
 
 <!--
